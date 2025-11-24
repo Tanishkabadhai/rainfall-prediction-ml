@@ -47,9 +47,17 @@ Target variable:
 > Performance can be improved using advanced models like Logistic Regression or Random Forest.
 
 ---
+## 📌 Dataset Source
+Dataset downloaded from Kaggle:
+https://www.kaggle.com/datasets/subho117/rainfall-prediction-using-machine-learning
+Dataset belongs to the original author as per Kaggle licensing.
+Used here for educational and research purposes only.
+
 
 ## ⚙️ How to Run
 
 Install dependencies:
 ```bash
 pip install pandas numpy scikit-learn matplotlib
+
+
